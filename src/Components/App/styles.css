@@ -1,0 +1,8 @@
+.navbar {
+  display: flex;
+  border: 3px solid black;
+}
+
+#nav-name {
+  font-size: 50px;
+}
